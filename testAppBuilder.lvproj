@@ -1615,7 +1615,7 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="testAppBuilder_rt.vi" Type="VI" URL="../testAppBuilder_rt.vi"/>
-		<Item Name="testAppBuilder_rt__OutOfBounds.vi" Type="VI" URL="../../testAppBuilder/testAppBuilder_rt__OutOfBounds.vi"/>
+		<Item Name="testAppBuilder_rt__OutOfBounds.vi" Type="VI" URL="../testAppBuilder_rt__OutOfBounds.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
